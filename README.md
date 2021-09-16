@@ -1,3 +1,12 @@
+# Getting Started
+## nest with graphql
+This is a simple demo, nest js with graphql
+
+Feel free to ping me on [twitter](https://twitter.com/realRobertKibet) :) 
+
+----
+
+# Nest Js
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
