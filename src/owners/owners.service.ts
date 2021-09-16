@@ -12,7 +12,8 @@ export class OwnersService {
   ) {}
 
   create(createOwnerInput: CreateOwnerInput) {
-    return this.ownersRepository.create(createOwnerInput);
+    const newOwner = this.ownersRepository.create(createOwnerInput);
+    return this.ownersRepository.save(newOwner);
   }
 
   findAll() {
